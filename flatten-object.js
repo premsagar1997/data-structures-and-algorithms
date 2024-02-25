@@ -8,8 +8,8 @@ const input = {
         state: 'Jharkhand',
         zip: 825323,
         userDetails: {
-          username: 'Admin@123',
-          password: 'Prem@123',
+          username: 'AdminUser@123',
+          password: 'AdminPassword@123',
         },
       },
     },
